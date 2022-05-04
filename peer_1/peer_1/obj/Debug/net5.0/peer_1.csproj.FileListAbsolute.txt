@@ -1,0 +1,16 @@
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\peer_1.exe
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\peer_1.deps.json
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\peer_1.runtimeconfig.json
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\peer_1.runtimeconfig.dev.json
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\peer_1.dll
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\ref\peer_1.dll
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\bin\Debug\net5.0\peer_1.pdb
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.csproj.AssemblyReference.cache
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.AssemblyInfoInputs.cache
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.AssemblyInfo.cs
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.csproj.CoreCompileInputs.cache
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.dll
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\ref\peer_1.dll
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.pdb
+C:\Users\egor-\Desktop\Егор\ВШЭ\peer_1\peer_1\obj\Debug\net5.0\peer_1.genruntimeconfig.cache
